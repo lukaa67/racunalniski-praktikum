@@ -5,3 +5,5 @@ Ctrl + A - izberi vse
 
 
 Commit message: dopolni README
+
+2. domača naloga
